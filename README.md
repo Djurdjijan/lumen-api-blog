@@ -31,8 +31,8 @@ The Lumen framework is open-sourced software licensed under the [MIT license](ht
 ## API ROUTES
 Fields =>
 - post_content
--# api_token
-
+- api_token
+--------------------
 - api/blog-post  [GET]
 - api/blog-post/{id}  [GET]
 - api/blog-post  [POST]
@@ -43,7 +43,7 @@ Fields =>
 
 - /register  [POST]
 - /login  [POST]
-
+--------------------
 Fields => 
  -# name
  -# email
