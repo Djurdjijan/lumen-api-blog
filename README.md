@@ -46,6 +46,6 @@ Fields =>
 - /login  [POST]
 --------------------
 Fields => 
- -# name
- -# email
- -# password (at least 8 characters long)
+ - name
+ - email
+ - password (at least 8 characters long)
