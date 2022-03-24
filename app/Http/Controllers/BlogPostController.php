@@ -50,7 +50,7 @@ class BlogPostController extends Controller
      */
     public function create(Request $request)
     {
- echo 'muda';
+ 
 
 //        $validatedData = Validator::make($request->all(), [
 //            'title' => 'required',
